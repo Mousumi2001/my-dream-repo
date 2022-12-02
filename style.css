@@ -120,7 +120,9 @@ input {
     border-bottom: 1px solid rgba(0, 0, 0, 0.442);
     width: 600px;
     margin-top: 20px;
-    background-color: none;
+    background-color: rgba(216, 214, 214, 0.441);
+    text-align: center;
+    font-weight: bold;
 }
 
 .btn {
@@ -153,4 +155,26 @@ footer {
 
 footer h1 {
     color: darkorange;
+}
+
+.blog {
+    margin: 90px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.323);
+    padding-bottom: 50px;
+}
+
+
+
+.question {
+    border: 1px solid black;
+    width: 450px;
+    font-size: 20px;
+    padding: 3px;
+    box-shadow: 1px 1px 5px 10px rgba(144, 229, 250, 0.385);
+    border-radius: 20%;
+
+}
+
+.all-p {
+    margin-left: 320px;
 }
