@@ -116,6 +116,13 @@ input {
     border: none;
 }
 
+.input {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.442);
+    width: 600px;
+    margin-top: 20px;
+    background-color: none;
+}
+
 .btn {
     background-color: rgb(249, 225, 180);
     padding: 60px;
